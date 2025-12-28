@@ -1,16 +1,18 @@
-## Hi there 👋
+## Welcome to my GitHub 👋
 
-<!--
-**1d4m/1d4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 1d4m, a self-taught software engineer based in Japan.
 
-Here are some ideas to get you started:
+### What I Do
+- 🧠 Learn every day
+- 🛠 Build full-stack apps
+- 📚 Share what I learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I Like
+✨ TypeScript · React · Next.js · Node.js · PostgreSQL
+
+### What I'm focusing on
+- Clean & maintainable code
+- Web application design
+- CS fundamentals
+
+Thanks for visiting! 😊
